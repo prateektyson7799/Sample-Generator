@@ -1,6 +1,5 @@
 ###################################################################################################
 # Author :  Nama Sai Krishna Prateek
-# UTA ID : 1001880903
 # Description : This program generates sample random numbers for the distributiions and calculates
 #               Sample Mean and Sample Standard Deviation
 # Citations : 1)https://www.youtube.com/watch?v=-Xj-7WBE7mw - reference video for gamma distributiion
