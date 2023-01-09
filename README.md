@@ -15,8 +15,6 @@ parameters.
 generated in the same path of the python program file which include
 sample numbers, Sample mean and Sample standard deviation.
 For references:
-• 1,200 – for problem 5.1
-• 2,500 – for problem 5.6
 • 3,10,bernoulli,0.5 – Bernoulli distribution
 • 3,10,binomial,10,0.6 – Binomial distribution
 • 3,15,geometric,0.8 – Geometric distribution
